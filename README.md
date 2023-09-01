@@ -1,4 +1,4 @@
-<h1 class="center">CODENERD</h1>
+<h1 style="text-align: center;">CODENERD</h1>
 
 <!---
 codenerdpj/codenerdpj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
